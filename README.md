@@ -21,12 +21,12 @@ This is a drag and drop inventory component for Unreal Engine 4. Currently imple
  - __E_ItemProperty:__ Will be used later for item sorting implementation.
  - __FL_Inventory:__ A function library for commonly used items.
  - __ST_InventorySettings:__ A structure containing various settings for the inventory widget.
- - __ST_Item:__: Structure of items containing variables to store things like name, pic, item count for each item.
+ - __ST_Item:__ Structure of items containing variables to store things like name, pic, item count for each item.
  - __W_ContextMenu:__ Context menu widget for an item.
  - __W_Inventory:__ The main inventory holder widget containing all the items. 
  - __W_Item:__ An item slot inside inventory. Responsible for drag and drop functions.
  - __W_Item:__ An item slot inside inventory. Responsible for drag and drop functions.
- - __W_RButton:__ A custom button widget used in dynamic category or dynamic context menues. 
+ - __W_RButton:__ A custom button widget used in dynamic category or dynamic context menus. 
  
  ### Some Useful Nodes
 <img src="images/invfunctions.png">
