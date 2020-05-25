@@ -40,6 +40,7 @@ This is a drag and drop inventory component for Unreal Engine 4. Currently imple
  - Documentation
  - Creating an item list style instead of grid
  - Sorting items based on item property
+ - Different sized Items
 
 ### Development
 Want to contribute? Great send me a message.
