@@ -3,7 +3,7 @@
 
 This is a drag and drop inventory component for Unreal Engine 4. Currently implemented features are listed below.
 - Modular system: Every element is controlled by data tables.
-- Drag and drop items. Highly customisable. Comes with example items for testing.
+- Drag and drop items. Moveable, Highly customisable. Comes with example items for testing.
 - Made using Blueprints only! 
 - Network Replication supported.
 
