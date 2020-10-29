@@ -1,3 +1,4 @@
+[![discord](https://img.shields.io/discord/735642528727957516?style=flat-square&logo=discord "Discord")](https://discord.gg/cJDV4F5)
 # Modular Inventory Component
 <img src="images/cover1.gif">
 
